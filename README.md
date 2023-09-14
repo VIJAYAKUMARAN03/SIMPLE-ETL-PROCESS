@@ -12,7 +12,7 @@ Once the data is transformed and prepared, it is loaded into the destination sys
 
 ETL processes can be implemented using various tools and programming languages, depending on your specific requirements. Common tools for ETL include Apache Nifi, Apache Spark, Talend, Microsoft SSIS (SQL Server Integration Services), Python with libraries like Pandas, and many others.
 
-##TASK
+## TASK:
  In this task we are gonna process the Biometric data. At first it is in .log file then converted into .txt files using Biometric DataLog Software.Here we are gonna process that text files.
  Coming to the pratical work, 
  1. At first we are going to read the textfiles from the nexted folders.(Extraxt)
