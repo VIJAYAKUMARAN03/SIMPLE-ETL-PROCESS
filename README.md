@@ -1,7 +1,7 @@
 # SIMPLE-ETL-PROCESS
 Simple ETL (Extract, Transform and Load) using MATLAB 
 
-# Extraction:
+## Extraction:
 This step involves reading data from various sources, which can include text files, databases, web services, APIs, and more. In your case, you mentioned reading text files.
 
 # Transformation: 
