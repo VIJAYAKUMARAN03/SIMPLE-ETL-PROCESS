@@ -14,7 +14,7 @@ ETL processes can be implemented using various tools and programming languages, 
 
 ## TASK:
  In this task we are gonna process the Biometric data. At first it is in .log file then converted into .txt files using Biometric DataLog Software.Here we are gonna process that text files.
- ### Coming to the pratical work, 
+ #### Coming to the pratical work, 
  1. At first we are going to read the textfiles from the nexted folders.(Extraxt)
  2. Then preprocessing and cleaning the file which was read, after those processes some measures like Minimum Alveolar Concentration(MAC) value is calculated.(Transform)
  3. After calculating some measures, saving or loading those calculated measures into the our specified format that is loading those MAC values in the EXCEL sheet.
